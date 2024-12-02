@@ -9,3 +9,4 @@ You are provided with a specific version of that protocol, which is deployed at 
 If you are struggling, try to solve the web-based game from the link above, step by step.
 
 As a hint, this challenge is very close in nature to the followkey challenge, except that this time, you are interacting directly with the server, rather than inspecting the network traffic. As another hint, the encryption key to be used when decrypted should be a integer. 
+edit for download
